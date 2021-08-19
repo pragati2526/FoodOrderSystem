@@ -1,2 +1,1 @@
-# firstrepo
-learning git
+A simple food order ystem in C programming language.
